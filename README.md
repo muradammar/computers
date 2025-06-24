@@ -1,6 +1,6 @@
 Here is a pile of various designs implemented in HDL:
 
-### 12_Hour_Clock.sv
+### 12_hour_clock.sv
 This is a HH:MM:SS clock with AM/PM logic implemented using chained BCD counters and a 1-12 counter for the hour signal
 
 ### fulladder.sv
